@@ -17,9 +17,4 @@ explored  Conv-LSTM,  which  showed  promising  results  with  a  focus
 on reconstruction-based approaches using lstm also. 
 The  performance  of  the  models  was  measured  in  terms  of  AUC-ROC 
 metrics,  indicating  that  Conv-Attention  could  potentially  handle  the 
-complexity  of  video  sequences.  Despite  the  AUC  value  of  0.65  on  the 
-UCSD  Ped1  dataset,  it  was  observed  to  be  prone  to  overfitting  and 
-computationally  resource-intensive.  In  the  future,  more  robust 
-reconstruction-based  strategies  will  be  explored  and  the  evaluation 
-process  will  be  expanded  to  include  various  datasets  for  improved 
-generalizability. 
+complexity  of  video  sequences.
